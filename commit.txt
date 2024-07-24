@@ -1,5 +1,5 @@
 
-init(): Init
+chore(): readme.md
 
 
 author: Zero
